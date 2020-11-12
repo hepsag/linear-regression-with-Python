@@ -1,2 +1,2 @@
 # linearregression
-A simple linear regression example for Python
+A simple linear regression example with Python
